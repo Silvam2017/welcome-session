@@ -1,4 +1,4 @@
 # welcome-session
 
 
-### Michael Silva checked the box that created this.###
+### Michael Silva checked the box that created this.
